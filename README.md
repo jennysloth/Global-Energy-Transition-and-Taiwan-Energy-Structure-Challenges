@@ -29,7 +29,7 @@ World Energy Consumption Analysis: Global Energy Transition and Taiwan's Energy 
 | 檔案或資料夾 | 說明 |
 |---|---|
 | `World Energy Consumption.csv` | 原始資料集 |
-| `energy_analysis_sections_1_to_4_executed.ipynb` | 已執行版 notebook，保留輸出結果、表格與圖表 |
+| `energy_analysis_sections_1_to_4.ipynb` | notebook |
 | `key_results.md` | 從 CSV 實際計算出的關鍵數字與資料檢查結果 |
 | `figures/` | 所有分析圖表 PNG |
 
